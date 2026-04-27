@@ -1,5 +1,5 @@
 # About Me:
-<br>Full-Stack Developer Intern @ Nearpeer | CS Student @ ITU | Game Dev Enthusiast | C++ | Python | Educator & Product Associate | Passionate About Building Scalable & Impactful Solutions
+<br>Full-Stack Developer Intern @ Nearpeer | CS Student @ ITU | AI/ML |Game Dev Enthusiast | C++ | Python | Educator & Product Associate | Passionate About Building Scalable & Impactful Solutions 
 
 
 ## 🌐 Socials:
